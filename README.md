@@ -1,6 +1,6 @@
 ## Bookstore Inventory Management System
 
-This web application helps bookstore owners efficiently manage their inventory by allowing users to perform CRUD operations on book data, with user authentication through Firebase, including login options via Google and Facebook.
+The MERN Book Store App Website with Inventory Management is a sophisticated and dynamic web application designed to facilitate the operations of a modern book store. Built on the MERN stack, which stands for MongoDB, Express.js, React, and Node.js, this application offers a powerful combination of technologies to provide a seamless user experience for both customers and store managers.
 
 ## Features
 
@@ -17,6 +17,9 @@ This web application helps bookstore owners efficiently manage their inventory b
 
 - **Smooth Navigation:**
   - Integrated **Swiper.js** for a seamless browsing experience through book categories and featured items.
+
+- **Admin Dashboard**
+  - Store managers can access a dedicated admin dashboard where they can view real-time inventory status, monitor sales, and manage orders, customers, and user accounts.
 
 ## Technology Stack
 
