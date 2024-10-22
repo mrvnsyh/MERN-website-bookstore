@@ -55,6 +55,6 @@ This web application helps bookstore owners efficiently manage their inventory b
 
 5. Run the application:
 
-  ```bash
-  npm run dev
+    ```bash
+    npm run dev
 
