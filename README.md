@@ -57,4 +57,11 @@ This web application helps bookstore owners efficiently manage their inventory b
 
     ```bash
     npm run dev
+    
+## Project Overview
+
+https://github.com/user-attachments/assets/0184028f-ef79-485e-901f-ca4326d4a97e
+
+
+
 
